@@ -1,2 +1,1 @@
-# nuclei-spot
-Nuclei morphology statistics per Spatial Transcriptomics spot
+# Nuclei morphology statistics per Spatial Transcriptomics spot
